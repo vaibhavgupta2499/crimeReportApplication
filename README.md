@@ -10,3 +10,4 @@ Reference articles -
 Google Drive for video - https://stackoverflow.com/questions/44400560/using-windows-gps-location-service-in-a-python-script
 
 YouTube video demo - https://www.youtube.com/watch?v=PrHI9XhnLN0
+Devpost - https://pride-hacks.devpost.com/submissions/239928-crimereportapplication
